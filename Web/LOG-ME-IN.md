@@ -1,6 +1,4 @@
-Login
-
-## LOG-ME-IN
+## LOG-ME-IN write up by Ambrotd
 
 We have a node express app with a login where the input is sent straight to the db
 ![892b3f85ac924daef30956ea40806ce9.png](../_resources/68a7f7504e1f474980c472dce7233c69.png)
