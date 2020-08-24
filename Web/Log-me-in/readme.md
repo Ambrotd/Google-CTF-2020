@@ -4,7 +4,7 @@ We have a node express app with a login where the input is sent straight to the 
 
 ![892b3f85ac924daef30956ea40806ce9.png](../../_resources/68a7f7504e1f474980c472dce7233c69.png)
 
-This mean we can modify the username and password and send them as an array
+The application is using bodyParser with extended true this means we can modify the username and password and send them as an array
 
 ![91a2a7704e95fd6bf1b39c205cf3669a.png](../../_resources/a274f2f17b34493688ed7e007ead6fd2.png)
 
